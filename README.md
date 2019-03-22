@@ -1,6 +1,6 @@
 # sanctuary-destruct [![npm version](https://badge.fury.io/js/sanctuary-destruct.svg)](https://www.npmjs.com/package/sanctuary-destruct) [![Build Status](https://travis-ci.org/bijoythomas/sanctuary-destruct.svg?branch=master)](https://travis-ci.org/bijoythomas/sanctuary-destruct)
 
-![demo](https://raw.githubusercontent.com/bijoythomas/sanctuary-destruct/media/demo.gif)
+![demo](https://github.com/bijoythomas/sanctuary-destruct/blob/master/demo.gif)
 
 - Cleans up required or imported [Sanctuary](https://sanctuary.js.org/) functions when
   using destructing assignment.
