@@ -1,0 +1,31 @@
+{
+  "name": "sanctuary-destruct",
+  "version": "0.0.1",
+  "description": "Cleans up required sanctuary functions when using destructuring assignment",
+  "scripts": {
+    "test": "mocha",
+    "test-watch": "mocha -w"
+  },
+  "bin": {
+    "sanctuary-destruct": "./bin/cli"
+  },
+  "repository": "bijoythomas/sanctuary-destruct",
+  "keywords": [
+    "sanctuary"
+  ],
+  "author": "Bijoy Thomas <bijoyjth@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "6.0.2"
+  },
+  "dependencies": {
+    "buffer-from": "^1.1.1",
+    "eslint": "5.15.3",
+    "fantasydo": "0.0.0",
+    "ramda": "0.25.0",
+    "read-file-stdin": "^0.2.0",
+    "sanctuary": "1.0.0",
+    "splice-string": "^1.0.0"
+  }
+}
