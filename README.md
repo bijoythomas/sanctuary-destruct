@@ -40,9 +40,6 @@ that restores cursor position after:
 :call Preserve("%!sanctuary-destruct")
 ```
 
-#### emacs
-
-https://gist.github.com/yrns/e9b0cf1c24a87812e1ecab9816823f4c
 
 #### Sublime Text
 Install the [FilterPipes plugin](https://packagecontrol.io/packages/FilterPipes) and add a key binding like
