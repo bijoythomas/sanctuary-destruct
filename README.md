@@ -1,4 +1,6 @@
-# sanctuary-destruct [![npm version](https://badge.fury.io/js/sanctuary-destruct.svg)](https://www.npmjs.com/package/sanctuary-destruct) [![Build Status](https://travis-ci.org/bijoythomas/sanctuary-destruct.svg?branch=master)](https://travis-ci.org/bijoythomas/sanctuary-destruct)
+# sanctuary-destruct 
+[![npm](https://img.shields.io/npm/v/sanctuary-destruct.svg)](https://www.npmjs.com/package/sanctuary-destruct)
+[![Build Status](https://travis-ci.org/bijoythomas/sanctuary-destruct.svg?branch=master)](https://travis-ci.org/bijoythomas/sanctuary-destruct)
 
 ![demo](https://github.com/bijoythomas/sanctuary-destruct/blob/master/demo.gif)
 
