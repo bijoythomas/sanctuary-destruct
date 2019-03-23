@@ -27,5 +27,9 @@
     "read-file-stdin": "^0.2.0",
     "sanctuary": "1.0.0",
     "splice-string": "^1.0.0"
-  }
+  },
+  "files": [
+    "lib/",
+    "bin/"
+  ]
 }
