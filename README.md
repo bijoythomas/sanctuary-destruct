@@ -2,7 +2,7 @@
 [![npm](https://img.shields.io/npm/v/sanctuary-destruct.svg)](https://www.npmjs.com/package/sanctuary-destruct)
 [![Build Status](https://travis-ci.org/bijoythomas/sanctuary-destruct.svg?branch=master)](https://travis-ci.org/bijoythomas/sanctuary-destruct)
 
-![demo](https://github.com/bijoythomas/sanctuary-destruct/blob/master/demo.gif)
+![demo](https://raw.githubusercontent.com/bijoythomas/sanctuary-destruct/master/demo.gif)
 
 - Cleans up required or imported [Sanctuary](https://sanctuary.js.org/) functions when
   using destructing assignment.
