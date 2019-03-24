@@ -1,6 +1,6 @@
 {
   "name": "sanctuary-destruct",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cleans up required sanctuary functions when using destructuring assignment",
   "scripts": {
     "test": "mocha",
